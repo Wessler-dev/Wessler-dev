@@ -18,6 +18,7 @@ Sou estudante de **Engenharia de Software** na **Uninter** e tenho direcionado m
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
 
 **Utilidades**
 
